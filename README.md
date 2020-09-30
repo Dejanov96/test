@@ -1,2 +1,2 @@
 # test
-samo testiram
+samo testiram.
